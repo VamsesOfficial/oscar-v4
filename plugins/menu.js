@@ -283,7 +283,7 @@ ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 `
 const listMessage = {
   text: tek,
-  footer: '𝐎𝐒𝐂𝐀𝐑 𝐌𝐔𝐋𝐓𝐈𝐃𝐄𝐕𝐈𝐂𝐄',
+  footer: '𝐂𝐡𝐨𝐧𝐢𝐱-𝐁𝐨𝐭',
   mentions: await conn.parseMention(tek),
   title: `${htki} *LIST MENU* ${htka}`,
   buttonText: `Halaman Menu`, 
