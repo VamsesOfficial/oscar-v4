@@ -30,26 +30,26 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Jarotr_'
-global.sgh = 'github.com/Alpiii22' //github
-global.sgc = 'https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda' //group whatsapp
+global.sig = 'https://instagram.com/ketutagus404'
+global.sgh = 'github.com/VamsesOfficial' //github
+global.sgc = 'https://chat.whatsapp.com/JxI53XkvnnYHP2D1eIZ8fu' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' // my youtube channel
+global.snh = 'https://youtube.com/channel/UCzLaeyGJk-JJu-oIS4Qt4JA' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '6285850539404' //dana
-global.povo = '-' //ovo
+global.pdana = '085738639969' //dana
+global.povo = '085738639969' //ovo
 global.pgopay = '-' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '085850539404' //indosat
-global.ppulsa2 = '085850539404' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/Jarotoffc'
+global.ppulsa = '085738639969' //indosat
+global.ppulsa2 = '-' // kalau ada kartu lain isi aja
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281376349712'
-global.nomorown = '085850539404'
-global.namebot = 'BOT VERSI JAWA'
-global.nameown = '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤'
+global.nomorbot = '19152666222'
+global.nomorown = '6289508503105'
+global.namebot = '𝐂𝐡𝐨𝐧𝐢𝐱-𝐁𝐨𝐭'
+global.nameown = '𝐕𝐚𝐦𝐬𝐞𝐬 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,10 +58,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA Jarot 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['6288972352822', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true],
-  ['6285850539404', '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤', true] //Ganti jd nomormu sama Namamu
+  ['6289508503105', '𝐕𝐚𝐦𝐬𝐞𝐬 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥', true],
+  ['6285738639969', '𝐕𝐚𝐦𝐬𝐞𝐬 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥', true],
+  ['6285738639969', '𝐕𝐚𝐦𝐬𝐞𝐬 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥', true],
+  ['6285738639969', '𝐕𝐚𝐦𝐬𝐞𝐬 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,20 +109,20 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝘖𝘚𝘊𝘈𝘙-𝘔𝘋 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝘉𝘖𝘛 𝘝𝘌𝘙𝘚𝘐 𝘑𝘈𝘞𝘈˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝘖𝘚𝘊𝘈𝘙-𝘔𝘋 '
+global.wm = '                「 𝐂𝐡𝐨𝐧𝐢𝐱-𝐁𝐨𝐭 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝐂𝐡𝐨𝐧𝐢𝐱-𝐁𝐨𝐭˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ 𝐕𝐚𝐦𝐬𝐞𝐬 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By 𝘑𝘢𝘳𝘰𝘵`
-global.author = '                「 𝘉𝘖𝘛 𝘝𝘌𝘙𝘚𝘐 𝘑𝘈𝘞𝘈  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Vamses`
+global.author = '                「 𝐂𝐡𝐨𝐧𝐢𝐱-𝐁𝐨𝐭  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/bf291b01f624b6dc01b05.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/bf291b01f624b6dc01b05.jpg'
+global.thumb = 'https://telegra.ph/file/faa2d78e288d5adfd1e7c.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/faa2d78e288d5adfd1e7c.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/bf291b01f624b6dc01b05.jpg']
+global.thumbs = ['https://telegra.ph/file/faa2d78e288d5adfd1e7c.jpg']
 global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
 global.flaaa2 = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
@@ -189,7 +189,7 @@ global.htjava = '❒'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤'
+global.stickpack = '𝐕𝐚𝐦𝐬𝐞𝐬 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
 global.stickauth = `𝐖𝐡𝐚𝐬𝐭𝐚𝐩𝐩 𝐛𝐨𝐭𝐳`
 
 global.multiplier = 38 // The higher, The harder levelup
