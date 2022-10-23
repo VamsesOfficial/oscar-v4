@@ -10,7 +10,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ✦ @${nomorown.split`@`[0]} ✦
 ------- ${nameown} -------
 Lebih simpel
-wa.me/6282146218274
+wa.me/6289508503105
 📮 *Note:*
 • Save ae ownernya gnteng uih🗿
 • Owner berhak blockir tanpa alasan
@@ -27,11 +27,11 @@ ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
 ${htjava} *⏰ Tanggal lahir* : Private 🥶
 ${htjava} *🎨 Umur* : 16
-${htjava} *🧮 Kelas* : 1 SMK
+${htjava} *🧮 Kelas* : Berapa yah🤔
 ${htjava} *🧩 Hobby* : NGODING SCRIPT,NGEBOT,NONTON YOUTUBE , MAKAN , TIDUR🗿"
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
 ${htjava} *🗺️ Tinggal* : Indo, Kaltim, Samarinda
-${htjava} *❤️ Waifu* : gasuka waifu , sukanya kamu🗿🙏
+${htjava} *❤️ Waifu* : Gweh Sih Emilia😋
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
