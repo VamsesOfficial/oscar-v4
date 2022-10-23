@@ -6,7 +6,7 @@ let text = `
 
 ┌─「 Donasi • Non Pulsa 」
 │ • *Dana:* [${global.pdana}]
-│ • *Saweria:* [${global.psaweria}]
+│ • *Ovo:* [${global.povo}]
 ❏────
 `.trim()
   m.reply(text)
